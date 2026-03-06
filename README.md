@@ -59,21 +59,14 @@ python main.py
 | 数据中心园区 | 5 |
 | **总计** | **336** |
 
-## 数据中心园区列表
-
-1. 贵州贵安
-2. 乌兰察布
-3. 宁夏中卫
-4. 河北张北
-5. 江苏南通
-
 ## 技术栈
 
-- Python 3
-- requests - HTTP请求
-- BeautifulSoup4 - HTML解析
-- pandas - 数据处理
-- openpyxl - Excel文件操作
+- Python 3.12.3
+- requests 2.32.5 - HTTP请求
+- beautifulsoup4 4.14.3 - HTML解析
+- lxml 6.0.2 - HTML解析器
+- pandas 3.0.1 - 数据处理
+- openpyxl 3.1.5 - Excel文件操作
 
 ## 注意事项
 
